@@ -7,7 +7,7 @@ Du ska skapa en enkel CRUD med hjälp av DynamoDb, Lambda och AWS Gateway. Du f�
 ### G-kriterier:
 * Skapa en DynamoDb-tabell
 * Skapa en Lambda-funktion
-* Lägg på permissions på DynamoDb-tabellen
+* Lägg på permissions på lambda-funktionen till DynamoDb-tabellen
 * Skapa en separat funktion i Lambda för 'Create'-delen i CRUD
 * Skapa en separat funktion i Lambda för 'Read'-delen i CRUD
 * Skapa en separat funktion i Lambda för 'Update'-delen i CRUD
